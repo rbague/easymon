@@ -1,0 +1,1 @@
+CREATE USER dummy WITH PASSWORD 'dummy';
